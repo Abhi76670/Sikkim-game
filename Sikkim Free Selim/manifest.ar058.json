@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "sikkim",
+	"version": "1.2",
+	"display": "standalone",
+	"background_color": "#fff",
+	"description": "sikkim Game",
+	"icons": [
+		{
+			"src": "/ar058@192.webp",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/ar058@512.png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/#/"
+}
